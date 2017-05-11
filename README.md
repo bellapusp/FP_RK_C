@@ -2,7 +2,7 @@
 Final Project Matkul RK C
 
 5114100007 - Magista Bella P.
-5114100138 - Faiz AInun Karima
+5114100138 - Faiz Ainun Karima
 5114100702 - Muhammad Ishar
 
 Sisitem Informasi Permintaan Surat
